@@ -546,7 +546,7 @@
       <Cleanliness>-5</Cleanliness>
       <Beauty>-10</Beauty>
     </statBases>
-    <description>A simple early stage Furnace with minimal automation. Burns unwanted apparel and smelts raw rescourses into useful materials. Also capable of burning stones into usefull bricks.\n\nAutomatically takes input materials (or trash) within the white cells surrounding the furnace - it has an input range of one cell.\nBlue cells represent the range for database connections.</description>
+    <description>A simple early stage Furnace with minimal automation. Burns unwanted apparel and smelts raw rescourses into useful materials. Also capable of burning stones into usefull bricks.\n\nAutomatically takes input materials (or trash) within the white cells surrounding the furnace - it has an input range of one cell - and outputs any finished metals into a cell you may specify.\nBlue cells represent the range for database connections.</description>
     <costList>
       <Steel>200</Steel>
       <ComponentIndustrial>5</ComponentIndustrial>
